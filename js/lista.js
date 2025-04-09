@@ -15,8 +15,3 @@ function mostrarLista(pokemones){
     }
     app.innerHTML = Pokes;
 }
-
-
-
-
-
